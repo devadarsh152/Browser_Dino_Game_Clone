@@ -19,6 +19,13 @@ A 2D endless runner remake of the classic browser Dino Game built in **Godot 4**
 * **Background & Terrain:** Generated using AI tools.
 * **Code & Game Logic:** Developed by **Devadarsh E**.
 
+## 🎮 Game Visuals
+<img width="972" height="595" alt="image" src="https://github.com/user-attachments/assets/ac48a9a6-ee15-4e5c-a850-655692db0871" />
+<img width="1096" height="598" alt="Dino_Game_Demo" src="https://github.com/user-attachments/assets/f157cb92-ec71-4d9a-a5e7-87f21c5c7895" />
+
+
+
+
 ## 🚀 How to Run Locally
 1. Download or clone this repository.
 2. Open **Godot 4.x**.
