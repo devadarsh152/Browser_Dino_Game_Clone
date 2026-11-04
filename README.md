@@ -10,7 +10,7 @@ A 2D endless runner remake of the classic browser Dino Game built in **Godot 4**
 * **Score & Persistence:** Built real-time score tracking and local state resets upon collision detection.
 
 ## 🛠️ Built With
-* **Engine:** Godot Engine 4.x
+* **Engine:** Godot Engine 4.6
 * **Language:** GDScript
 
 ## 🎨 Asset & Content Credits
