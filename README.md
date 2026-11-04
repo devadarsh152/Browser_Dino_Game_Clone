@@ -28,5 +28,5 @@ A 2D endless runner remake of the classic browser Dino Game built in **Godot 4**
 
 ## 🚀 How to Run Locally
 1. Download or clone this repository.
-2. Open **Godot 4.x**.
+2. Open **Godot 4.6**.
 3. Import the project using `project.godot` and press **F5** to run.
